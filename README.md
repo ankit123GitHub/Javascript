@@ -1,3 +1,4 @@
 # Javascript
 
-Some Basic Project of js in this file
+clicking on one of the colors above
+to change the background color of this page!
